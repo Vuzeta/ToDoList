@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+label {
+    font-weight: bold;
+}
+ul {
+    margin-top: 50px;
+}
+.toogle-complete-btn {
+    float: left;
+}
+
+.delete-task-btn {
+    float:right;
+}
+p {
+    display: inline-block;
+    margin: 20px auto 20px 200px;
+    font-size: 17px;  
+}
